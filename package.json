@@ -1,0 +1,11 @@
+{
+  "name": "sl_altayi",
+  "version": "0.0.1",
+  "description": "SL ALTYAPI c.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SL ALTYAPI OWNER",
+  "license": "ISC"
+}
