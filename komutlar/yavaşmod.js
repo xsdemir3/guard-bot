@@ -1,6 +1,6 @@
 const Discord = require('discord.js'); 
 var request = require('request');
-const db = require('quick.db')
+const db = require('wio.db')
 exports.run = async(client, msg, args) => {
  
  if (msg.channel.type !== "text") return;
